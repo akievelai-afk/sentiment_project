@@ -1,0 +1,32 @@
+{
+  "model_type": "TF-IDF + Logistic Regression",
+  "vocab_size": 1240,
+  "training_samples": 2716,
+  "validation_samples": 680,
+  "train_accuracy": 1.0,
+  "validation_accuracy": 1.0,
+  "positive_words": [
+    "买回来用了几天",
+    "对比了好几家才选的这家",
+    "好评",
+    "很惊喜",
+    "颜色也好看",
+    "第二次回购了",
+    "推荐给大家",
+    "值得购买",
+    "很满意",
+    "太值了"
+  ],
+  "negative_words": [
+    "一次糟糕的购物体验",
+    "根本不值这个价",
+    "不如实体店买",
+    "再也不在这家买了",
+    "很失望",
+    "太坑了",
+    "和图片上的完全不一样",
+    "申请退货中",
+    "建议大家别买",
+    "差评"
+  ]
+}

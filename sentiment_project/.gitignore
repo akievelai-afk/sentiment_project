@@ -1,0 +1,10 @@
+﻿# Python缓存
+__pycache__/
+*.pyc
+# 模型文件（太大，不上传）
+output/model/
+# 数据文件（也可以不上传，但为了展示可以留着）
+# data/raw/
+# system
+.DS_Store
+Thumbs.db

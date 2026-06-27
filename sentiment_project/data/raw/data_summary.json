@@ -1,0 +1,8 @@
+{
+  "dataset": "中文电商评论情感分析数据集（本地生成增强版）",
+  "total_samples": 6000,
+  "unique_samples": 3396,
+  "positive_count": 3000,
+  "negative_count": 3000,
+  "avg_length": 19.0
+}
